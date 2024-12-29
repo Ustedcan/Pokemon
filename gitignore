@@ -1,0 +1,14 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos temporales
+temp/
+*.tmp
+
+# Ignorar archivos de configuración específicos del usuario
+.env
+
+# Ignorar directorios
+dataset/
+train/
+test/
